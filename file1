@@ -1,3 +1,12 @@
 This is a new file
 I am a collaborator
 I am making a local commit
+<<<<<<<< HEAD
+i edit this
+========
+this is second edit
+<<<<<<<< HEAD:file3~
+>>>>>>>> 9f6e61ac7g854d27f70f677b09a132566a4f212
+========
+this is another edit
+>>>>>>>> bf6e52oer595j427f70f257b09a587587a4o696:file3
